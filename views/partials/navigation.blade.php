@@ -14,12 +14,21 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
-            {!! Menu::render('header-left', 'nav-left') !!}
+            <ul class="nav navbar-nav nav-left">
+			  <li class="{{ Request::segment(2) == '' ? 'active': '' }}"><a href="/">Home</a></li>
+			  <li class="{{ Request::segment(2) == 'betonvloer' ? 'active': '' }}"><a href="/betonvloer">Betonvloer</a></li>
+			  <li class="{{ Request::segment(2) == 'onderhoud' ? 'active': '' }}"><a href="/onderhoud">Onderhoud</a></li>
+			  <li class="{{ Request::segment(2) == 'contact' ? 'active': '' }}"><a href="/contact">Contact</a></li>
+			</ul>
             <a href="#" class="logo visible-lg visible-md">
             <!--<img src="img/.jpg" alt="dodolan manuk responsive catalog themes">
             --></a>
             <div id="brand" class="visible-lg visible-md">&nbsp;</div>
-            {!! Menu::render('header-right', 'nav-right') !!}
+            <ul class="nav navbar-nav nav-right">
+			  <li class="{{ Request::segment(2) == 'referenties' ? 'active': '' }}"><a href="/referenties">Realisaties</a></li>
+			  <li class="{{ Request::segment(2) == 'over-ons' ? 'active': '' }}"><a href="/over-ons">Over ons</a></li>
+			  <li class="{{ Request::segment(2) == 'offerte' ? 'active': '' }}"><a href="/offerte">Offerte aanvragen</a></li>
+			</ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>

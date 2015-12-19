@@ -806,6 +806,12 @@ blockquote {
 	//text-shadow: 1px 0px #333;
 }
 
+#home-slider .carousel-inner .item .carousel-content div.textSlider p {
+	font-size: 14px;
+	color: #6F6F6F;
+	font-weight: normal;
+}
+
 #home-slider .carousel-control {
 	width:40px;
 	color:#fff;
@@ -2540,4 +2546,3 @@ ul.thumbnails {
 	margin:0;
 	margin-bottom: 20px;
 }
-

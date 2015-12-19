@@ -20,7 +20,6 @@
 			<div class="col-md-12">
 				<div class="heading-title">
 					<h2>Diensten</h2>
-					{!! $page->body !!}
 				</div>
 			</div>
 		</div>
@@ -30,8 +29,8 @@
 					<div class="service-photos">
 						<a href="/betonvloer"><img src="{{ Theme::url('img/beton.jpg')}}"></a>
 					</div>
-					<h3>Gepolierde betonvloeren</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis lectus metus, at posuere neque.</p>
+					<h3>Terrassen en opritten</h3>
+					<p>Een terras of oprit is niet alleen stijlvol maar ook robuust en duurzaam. Bovendien zijn er meerdere voordelen ten opzichte van traditionele klinkers of tegels.</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-4">
@@ -39,8 +38,8 @@
 					<div class="service-photos">
 						<a href="/betonvloer/terras-in-gepolierde-beton"><img src="{{ Theme::url('img/beton.jpg')}}"></a>
 					</div>
-					<h3>Opritten en terrassen</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis lectus metus, at posuere neque.</p>
+					<h3>Woningen</h3>
+					<p>Steeds vaker wordt in nieuwe woningen voor betonvloeren in huis gekozen in plaats van tegelvloeren. Er zijn dan ook vele voordelen.</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-4">
@@ -48,8 +47,10 @@
 					<div class="service-photos">
 						<img src="{{ Theme::url('img/beton.jpg')}}">
 					</div>
-					<h3>Waterpartijen</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis lectus metus, at posuere neque.</p>
+					<h3>Tuinhuizen en bijgebouwen</h3>
+					<p>Een tuinhuis is een handige opbergplaats die makkelijk in mekaar gezet kan worden,
+                        maar een stevige ondergrond is hierbij uiterst belangrijk.
+                        Een betonnen dek is hierovoor een logische keuze.</p>
 				</div>
 			</div>
 		</div>

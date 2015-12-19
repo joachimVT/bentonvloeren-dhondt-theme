@@ -15,7 +15,11 @@
 						<div class="col-md-10">
 							<div class="carousel-content">
 								<h1 class="animated fadeInUp text-lext text-black">Betonvloeren Dhondt</h1>
-									<p class="animated fadeInUpBig text-black text-left"><span class="text900">Uw specialist in vloeren en terrassen in beton</span><br><br> <a href="/betonvloer" class="btn btn-black btn-larges">Hoe we de werken aan uw vloer aanpakken</a></p>
+								<p class="animated fadeInUpBig text-black text-left">
+									<span class="text900">Uw specialist in vloeren en terrassen in beton</span>
+								</p>
+								<div class="textSlider">{!! $page->body !!}</div>
+								<a href="/betonvloer" class="btn btn-black btn-larges">Hoe we de werken aan uw vloer aanpakken</a>
 							</div>
 						</div>
 					</div>
