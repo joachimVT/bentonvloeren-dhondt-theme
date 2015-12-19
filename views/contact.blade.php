@@ -33,11 +33,7 @@
 
             <div class="row">
                 <div class="col-md-8">
-                    <p>Heeft u een vraag over het aanleggen van een nieuw terras of oprit ?
-                        <a href="/offerte">Wilt u graag een vrijblijvende offerte aanvragen?</a>
-                        Bel ons op het nummer + 32 (0)56 20 28 20 of vul hieronder uw gegevens in.
-                        U krijgt binnen de 24 uur een antwoord (behalve tijdens het weekend en verlofdagen).
-                    </p>
+                    <p>{!! $page->body !!}</p>
                 </div>
                 <div class="col-md-4">
                     <p>Tel: 000000000
