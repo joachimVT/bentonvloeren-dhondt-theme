@@ -26,7 +26,7 @@
             <div id="brand" class="visible-lg visible-md">&nbsp;</div>
             <ul class="nav navbar-nav nav-right">
               <li class="{{ Request::segment(2) == 'werkwijze' ? 'active': '' }}"><a href="/werkwijze">Werkwijze</a></li>
-              <li class="{{ Request::segment(2) == 'referenties' ? 'active': '' }}"><a href="/referenties">Realisaties</a></li>
+              <li class="{{ Request::segment(2) == 'realisaties' ? 'active': '' }}"><a href="/realisaties">Realisaties</a></li>
 			  <li class="{{ Request::segment(2) == 'over-ons' ? 'active': '' }}"><a href="/over-ons">Over ons</a></li>
 			  <li class="{{ Request::segment(2) == 'offerte' ? 'active': '' }}"><a href="/offerte">Offerte</a></li>
 			</ul>
