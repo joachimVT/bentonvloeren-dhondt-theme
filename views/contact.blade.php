@@ -36,7 +36,7 @@
                     <p>{!! $page->body !!}</p>
                 </div>
                 <div class="col-md-4">
-                    <p>Tel: 000000000
+                    <p>Tel: + 32 471 49 01 29
                     <br>
                     <a href="mailto:info@betonvloeren-dhondt.be">info@betonvloeren-dhondt.be</a>
                     <br>
@@ -50,7 +50,7 @@
                 </div>
             </div>
             <div class="row padd20-top-btm">
-                <form method="post" action="contact.html">
+                <form method="post" action="contact">
                     <div class="col-md-5 col-sm-5">
                         <h3>Verstuur bericht</h3>
                         <input type="text" name="name" class="form-control" placeholder="Naam" required>
