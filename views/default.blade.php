@@ -29,12 +29,8 @@
 
 				<div class="col-md-12 col-sm-12 single-item">
 					<div class="row">
-						<div class="col-md-8 col-sm-8">
-							<h3>{{ $page->title }}</h3>
+						<div class="col-md-12 col-sm-12">
 							{!! $page->body !!}
-						</div>
-						<div class="col-md-4 col-sm-4">
-							<img src="{{ Theme::url('img/img05.jpg')}}" class="img-responsive img-rounded" alt="dodolan manuk catalog template">
 						</div>
 					</div>
 				</div>

@@ -16,7 +16,7 @@
 
             <ul class="nav navbar-nav nav-left">
 			  <li class="{{ Request::segment(2) == '' ? 'active': '' }}"><a href="/">Home</a></li>
-			  <li class="{{ Request::segment(2) == 'betonvloer' ? 'active': '' }}"><a href="/betonvloer">Betonvloer</a></li>
+			  <li class="{{ Request::segment(2) == 'gepolierde-betonvloer' ? 'active': '' }}"><a href="/gepolierde-betonvloer">Gepolierde betonvloer</a></li>
 			  <li class="{{ Request::segment(2) == 'onderhoud' ? 'active': '' }}"><a href="/onderhoud">Onderhoud</a></li>
 			  <li class="{{ Request::segment(2) == 'contact' ? 'active': '' }}"><a href="/contact">Contact</a></li>
 			</ul>

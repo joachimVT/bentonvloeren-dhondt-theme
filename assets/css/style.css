@@ -2546,3 +2546,27 @@ ul.thumbnails {
 	margin:0;
 	margin-bottom: 20px;
 }
+
+blockquote {
+	padding: 15px 15px;
+	margin: 0 0 20px;
+	background: #eaeaea;
+	font-size: 16px;
+	color: #666666;
+	background: #FFFFFF;
+}
+
+.item blockquote p:before {
+    content: "\f10d";
+    font-family: 'Fontawesome';
+    float: left;
+    margin-right: 10px;
+}
+
+.voffset2 {
+	margin-top: 10px;
+}
+
+.voffset3 {
+	margin-top: 15px;
+}
