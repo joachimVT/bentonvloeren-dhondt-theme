@@ -18,7 +18,6 @@
 			  <li class="{{ Request::segment(2) == '' ? 'active': '' }}"><a href="/">Home</a></li>
 			  <li class="{{ Request::segment(2) == 'gepolierde-betonvloer' ? 'active': '' }}"><a href="/gepolierde-betonvloer">Gepolierde betonvloer</a></li>
 			  <li class="{{ Request::segment(2) == 'onderhoud' ? 'active': '' }}"><a href="/onderhoud">Onderhoud</a></li>
-			  <li class="{{ Request::segment(2) == 'contact' ? 'active': '' }}"><a href="/contact">Contact</a></li>
 			</ul>
             <a href="#" class="logo visible-lg visible-md">
             <!--<img src="img/.jpg" alt="dodolan manuk responsive catalog themes">
@@ -28,7 +27,7 @@
               <li class="{{ Request::segment(2) == 'werkwijze' ? 'active': '' }}"><a href="/werkwijze">Werkwijze</a></li>
               <li class="{{ Request::segment(2) == 'realisaties' ? 'active': '' }}"><a href="/realisaties">Realisaties</a></li>
 			  <li class="{{ Request::segment(2) == 'over-ons' ? 'active': '' }}"><a href="/over-ons">Over ons</a></li>
-			  <li class="{{ Request::segment(2) == 'offerte' ? 'active': '' }}"><a href="/offerte">Offerte</a></li>
+			  <li class="{{ Request::segment(2) == 'contact' ? 'active': '' }}"><a href="/contact">Contact</a></li>
 			</ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
