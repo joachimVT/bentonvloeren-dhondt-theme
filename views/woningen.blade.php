@@ -58,7 +58,7 @@
 
                     <div class="row">
                         <div class="col-md-12 col-sm-12">
-                            <h2>Wil u snel deskundig advies over gepolierde betonvloer in uw woning?</h2>
+                            <h3>Wil u snel deskundig advies over gepolierde betonvloer in uw woning?</h3>
                             <a href="/contact" class="btn btn-black">Maak een afspraak</a>
                         </div>
                     </div>

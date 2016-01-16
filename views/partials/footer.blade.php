@@ -4,7 +4,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h3>Contacteer mij</h3>
-				<p>Heeft u een vraag over het aanleggen van een nieuw terras ?</p>
+				<p>Heeft u een vraag over de kostprijs of mogelijkheden van een gepolierde betonvloer?</p>
 				<p><a href="/contact" class="btn btn-black btn-larges">Contacteer mij vandaag nog</a></p>
 
 				<ul class="list-unstyled social-icon">
@@ -31,7 +31,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<small>Copyright &copy; 2015 {{ Setting::get('core::site-name') }} alle rechten uitdrukkelijk voorbehouden.</small>
+				<small>Copyright &copy; 2016 {{ Setting::get('core::site-name') }} alle rechten uitdrukkelijk voorbehouden.</small>
 			</div>
 		</div>
 	</div>
