@@ -45,7 +45,7 @@
 			<div class="col-md-4 col-sm-4">
 				<div class="service-container">
 					<div class="service-photos">
-						<a href="/gepolierde-betonvloer/tuinhuizen-en-bijgebouwen"><img src="{{ Theme::url('img/realisatie_tuinhuis.jpg')}}"></a>
+						<a href="/gepolierde-betonvloer/tuinhuizen-en-bijgebouwen"><img src="{{ Theme::url('img/realisatie_tuinhuis_small.jpg')}}"></a>
 					</div>
 					<h3>Tuinhuizen en bijgebouwen</h3>
 					<p>Een tuinhuis is een handige opbergplaats die makkelijk in mekaar gezet kan worden,
