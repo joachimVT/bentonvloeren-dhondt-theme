@@ -36,7 +36,7 @@
 			<div class="col-md-4 col-sm-4">
 				<div class="service-container">
 					<div class="service-photos">
-						<a href="/gepolierde-betonvloer/woningen"><img src="{{ Theme::url('img/beton.jpg')}}"></a>
+						<a href="/gepolierde-betonvloer/woningen"><img src="{{ Theme::url('img/realisatie_woning_small.jpg')}}"></a>
 					</div>
 					<h3>Woningen</h3>
 					<p>Steeds vaker wordt in nieuwe woningen voor betonvloeren in huis gekozen in plaats van tegelvloeren. Er zijn dan ook vele voordelen.</p>
@@ -45,7 +45,7 @@
 			<div class="col-md-4 col-sm-4">
 				<div class="service-container">
 					<div class="service-photos">
-						<a href="/gepolierde-betonvloer/tuinhuizen-en-bijgebouwen"><img src="{{ Theme::url('img/beton.jpg')}}"></a>
+						<a href="/gepolierde-betonvloer/tuinhuizen-en-bijgebouwen"><img src="{{ Theme::url('img/realisatie_tuinhuis.jpg')}}"></a>
 					</div>
 					<h3>Tuinhuizen en bijgebouwen</h3>
 					<p>Een tuinhuis is een handige opbergplaats die makkelijk in mekaar gezet kan worden,

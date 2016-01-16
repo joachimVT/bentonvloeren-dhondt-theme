@@ -32,7 +32,31 @@
 							{!! $page->body !!}
 						</div>
 					</div>
-                    
+
+                    <div class="row">
+                        <div class="col-md-3 col-sm-3">
+                            <div class="thumbnail">
+                                <a href="{{ Theme::url('img/realisatie_tuinhuis.jpg')}}" class="fancybox" rel="terrassen">
+                                    <img src="{{ Theme::url('img/realisatie_tuinhuis.jpg')}}" class="img-responsive" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="thumbnail">
+                                <a href="{{ Theme::url('img/realisatie_tuinhuis2.jpg')}}" class="fancybox" rel="terrassen">
+                                    <img src="{{ Theme::url('img/realisatie_tuinhuis2.jpg')}}" class="img-responsive" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="thumbnail">
+                                <a href="{{ Theme::url('img/realisatie_tuinhuis3.jpg')}}" class="fancybox" rel="terrassen">
+                                    <img src="{{ Theme::url('img/realisatie_tuinhuis3.jpg')}}" class="img-responsive" alt="">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="row">
                         <div class="col-md-12 col-sm-12">
                             <h2>Wil u snel deskundig advies over gepolierde betonvloer in uw tuinhuis?</h2>

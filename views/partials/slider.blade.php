@@ -25,8 +25,8 @@
 					</div>
 				</div>
 			</div>
-			<!---
-			<div class="item" style="background: url(img/img02.jpg);">
+			<!--
+			<div class="item" style="background: url({{Theme::url('img/realisatie_woning9.jpg')}});">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
@@ -39,7 +39,8 @@
 					</div>
 				</div>
 			</div>
-			-->
+		-->
+
 		</div>
 		<!--
 		<a class="left carousel-control" href="#home-slider" data-slide="prev">
@@ -48,6 +49,7 @@
 		<a class="right carousel-control" href="#home-slider" data-slide="next">
 			<i class="fa fa-angle-right"></i>
 		</a>
+
 		<div class="pattern"></div>
 		-->
 	</div>
