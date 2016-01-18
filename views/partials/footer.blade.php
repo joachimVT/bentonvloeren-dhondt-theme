@@ -16,7 +16,7 @@
 					<ul>
 						<li><a href="/">Home</a></li>
 						<li><a href="/about">Sitemap</a></li>
-						<li><a href="/profile">Privacy</a></li>
+						<li><a href="/privacy">Privacy</a></li>
 						<li><a href="/contact">Contact</a></li>
 					</ul>
 				</div>
