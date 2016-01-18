@@ -11,26 +11,26 @@
     </title>
     <link rel="shortcut icon" href="{{ Theme::url('favicon.ico') }}">
 
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ Theme::url('apple-touch-icon-57x57.png') }}" />
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ Theme::url('apple-touch-icon-114x114.png') }}" />
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ Theme::url('apple-touch-icon-72x72.png') }}" />
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ Theme::url('apple-touch-icon-144x144.png') }}" />
-    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{ Theme::url('apple-touch-icon-60x60.png') }}" />
-    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ Theme::url('apple-touch-icon-120x120.png') }}" />
-    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ Theme::url('apple-touch-icon-76x76.png') }}" />
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ Theme::url('apple-touch-icon-152x152.png') }}" />
-    <link rel="icon" type="image/png" href="{{ Theme::url('favicon-196x196.png" sizes="196x196') }}" />
-    <link rel="icon" type="image/png" href="{{ Theme::url('favicon-96x96.png" sizes="96x96') }}" />
-    <link rel="icon" type="image/png" href="{{ Theme::url('favicon-32x32.png" sizes="32x32') }}" />
-    <link rel="icon" type="image/png" href="{{ Theme::url('favicon-16x16.png" sizes="16x16') }}" />
-    <link rel="icon" type="image/png" href="{{ Theme::url('favicon-128.png" sizes="128x128') }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ Theme::url('img/apple-touch-icon-57x57.png') }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ Theme::url('img/apple-touch-icon-114x114.png') }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ Theme::url('img/apple-touch-icon-72x72.png') }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ Theme::url('img/apple-touch-icon-144x144.png') }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{ Theme::url('img/apple-touch-icon-60x60.png') }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ Theme::url('img/apple-touch-icon-120x120.png') }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ Theme::url('img/apple-touch-icon-76x76.png') }}" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ Theme::url('img/apple-touch-icon-152x152.png') }}" />
+    <link rel="icon" type="image/png" href="{{ Theme::url('img/favicon-196x196.png" sizes="196x196') }}" />
+    <link rel="icon" type="image/png" href="{{ Theme::url('img/favicon-96x96.png" sizes="96x96') }}" />
+    <link rel="icon" type="image/png" href="{{ Theme::url('img/favicon-32x32.png" sizes="32x32') }}" />
+    <link rel="icon" type="image/png" href="{{ Theme::url('img/favicon-16x16.png" sizes="16x16') }}" />
+    <link rel="icon" type="image/png" href="{{ Theme::url('img/favicon-128.png" sizes="128x128') }}" />
     <meta name="application-name" content="Betonvloeren Dhondt"/>
     <meta name="msapplication-TileColor" content="#2C3E50" />
-    <meta name="msapplication-TileImage" content="{{ Theme::url('mstile-144x144.png') }}" />
-    <meta name="msapplication-square70x70logo" content="{{ Theme::url('mstile-70x70.png') }}" />
-    <meta name="msapplication-square150x150logo" content="{{ Theme::url('mstile-150x150.png') }}" />
-    <meta name="msapplication-wide310x150logo" content="{{ Theme::url('mstile-310x150.png') }}" />
-    <meta name="msapplication-square310x310logo" content="{{ Theme::url('mstile-310x310.png') }}" />
+    <meta name="msapplication-TileImage" content="{{ Theme::url('img/mstile-144x144.png') }}" />
+    <meta name="msapplication-square70x70logo" content="{{ Theme::url('img/mstile-70x70.png') }}" />
+    <meta name="msapplication-square150x150logo" content="{{ Theme::url('img/mstile-150x150.png') }}" />
+    <meta name="msapplication-wide310x150logo" content="{{ Theme::url('img/mstile-310x150.png') }}" />
+    <meta name="msapplication-square310x310logo" content="{{ Theme::url('img/mstile-310x310.png') }}" />
 
 
     {!! Theme::style('css/bootstrap.css') !!}
