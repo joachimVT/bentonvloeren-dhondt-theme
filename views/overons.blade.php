@@ -40,10 +40,6 @@
                 <img src="{{ Theme::url('img/realisatie2.jpg')}}" class="img-responsive img-rounded" alt="dodolan manuk catalog template">
             </div>
             <div class="col-md-9 col-sm-9">
-                <p>
-                    Steeds vaker wordt beton voor de vloerafwerking van woningen gebruikt. Betonvloeren zijn
-                    goedkoop, snel geplaatst, makkelijk te onderhouden en door de vele afwerkingsmogelijkheden ook esthetisch zeer veelzijdig.
-                </p>
                 <p>Vanuit die grote vraag is in 2010 Betonvloeren D’hondt in Zulte ontstaan.
                     In korte tijd hebben we de bouwplannen van honderden particulieren in Oost- en West-Vlaanderen gerealiseerd.
                     We zijn gespecialiseerd in terrassen, vloeren en opritten voor woningbouw.
