@@ -20,8 +20,8 @@
 			  <li class="{{ Request::segment(2) == 'onderhoud' ? 'active': '' }}"><a href="/onderhoud">Onderhoud</a></li>
 			</ul>
             <a href="#" class="logo visible-lg visible-md">
-            <!--<img src="img/.jpg" alt="dodolan manuk responsive catalog themes">
-            --></a>
+                <img src="{{ Theme::url('img/logo.jpg')}}" alt="{{ Setting::get('core::site-name') }}">
+            </a>
             <div id="brand" class="visible-lg visible-md">&nbsp;</div>
             <ul class="nav navbar-nav nav-right">
               <li class="{{ Request::segment(2) == 'werkwijze' ? 'active': '' }}"><a href="/werkwijze">Werkwijze</a></li>

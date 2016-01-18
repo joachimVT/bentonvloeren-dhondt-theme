@@ -342,7 +342,7 @@ blockquote {
 
 .navbar .logo img,
 .navbar-default .logo img{
-	min-width: 105px;
+	/*min-width: 105px;
 	max-width: 105px;
 	min-height: 105px;
 	max-height: 105px;
@@ -350,6 +350,8 @@ blockquote {
 	-moz-border-radius: 100%;
 	-webkit-border-radius: 100%;
 	border-radius: 100%;
+	*/
+	margin-top: 10px;
 }
 
 .navbar-default .nav-left > li:nth-child(5n + 0){
