@@ -12,9 +12,6 @@
 			  <li class="{{ (Request::segment(3) == 'tuinhuizen-en-bijgebouwen') ? 'active': '' }}">
 				  <a href="/gepolierde-betonvloer/tuinhuizen-en-bijgebouwen">Tuinhuizen en bijgebouwen</a>
 			  </li>
-			  <li class="{{ (Request::segment(3) == 'paden') ? 'active': '' }}">
-				  <a href="/gepolierde-betonvloer/paden">Paden</a>
-			  </li>
 			</ul>
 		</div>
 	</div>
